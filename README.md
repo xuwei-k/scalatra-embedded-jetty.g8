@@ -6,7 +6,7 @@
 
 Install giter8 (g8) - [readme](http://github.com/n8han/giter8#readme) for more information.
 
-Install SBT 0.11.x - [Setup](https://github.com/harrah/xsbt/wiki/Setup) for more information.
+Install SBT 0.11.x - [Setup](http://www.scala-sbt.org/release/docs/Getting-Started/Setup) for more information.
 
 In a shell, run the following:
 
